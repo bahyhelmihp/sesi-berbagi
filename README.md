@@ -9,10 +9,10 @@ A repository containing materials of sharing session that done by me during my i
 #### T-Test Two Independent Samples
 - [Jupyter Notebook of T-Test Example](https://github.com/bahyhelmihp/sesi-berbagi/blob/master/T-Test/T-Test%20Independent%20Sample%20-%20Example.ipynb)
 - [Slide of T-Test](https://github.com/bahyhelmihp/sesi-berbagi/blob/master/T-Test/T-Test%20Sharing%20Session.pdf)
-- [Presentation Video](https://drive.google.com/file/d/1WG-xHHKa1EKAqQjO1tHGS3T9qEdIh1Uy/view?usp=share_link)
+- [Presentation Video: T-Test](https://drive.google.com/file/d/1WG-xHHKa1EKAqQjO1tHGS3T9qEdIh1Uy/view?usp=share_link)
 
 #### Video Captioning
-- [Paper Review: ORG-TRL](https://drive.google.com/file/d/1LBe09VRYuCDCcepTz0r734o4z1tPIufj/view?usp=share_link) 
+- [Presentation Video: ORG-TRL](https://drive.google.com/file/d/1LBe09VRYuCDCcepTz0r734o4z1tPIufj/view?usp=share_link) 
 
 ### Contact
 - **Email**: bahyhelmi97@gmail.com
