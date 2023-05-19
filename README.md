@@ -15,5 +15,9 @@ A repository containing materials of sharing session that done by me during my s
 - [Slide of ORG-TRL](https://github.com/bahyhelmihp/sesi-berbagi/blob/master/ORG-TRL/Paper%20Review%20-%20Object%20Relational%20Graph%20with%20Teacher-Recommended%20Learning%20for%20Video%20Captioning.pdf)
 - [Presentation Video: ORG-TRL](https://drive.google.com/file/d/1LBe09VRYuCDCcepTz0r734o4z1tPIufj/view?usp=share_link) 
 
+#### Gradient Descent
+- [Jupyter Notebook of Gradient Descent Example](https://github.com/bahyhelmihp/sesi-berbagi/blob/master/Gradient%20Descent/(Notebook)%20Gradient%20Descent.ipynb)
+- [Slide of Gradient Descent](https://github.com/bahyhelmihp/sesi-berbagi/blob/master/Gradient%20Descent/(Presentation)%20Gradient%20Descent.pdf)
+
 ### Contact
 - **Email**: bahyhelmi97@gmail.com
