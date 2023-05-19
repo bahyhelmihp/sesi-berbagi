@@ -1,5 +1,5 @@
 ## sesi-berbagi
-A repository containing materials of sharing session that done by me during my internship, professional working, and researching experience. I tried to share several topics that I have learned, including the notion of doing hypothesis testing and reviewing about video captioning papers. Some notebooks, slides, and videos are attached. Any suggestions are welcome!
+A repository containing materials of sharing session that done by me during my study, internship, professional working, and researching experience. I tried to share several topics that I have learned, including the notion of doing hypothesis testing and reviewing about video captioning papers. Some notebooks, slides, and videos are attached. Any suggestions are welcome!
 
 ### Materials
 #### ANOVA
