@@ -18,6 +18,7 @@ A repository containing materials of sharing session that done by me during my s
 #### Gradient Descent
 - [Jupyter Notebook of Gradient Descent Example](https://github.com/bahyhelmihp/sesi-berbagi/blob/master/Gradient%20Descent/(Notebook)%20Gradient%20Descent.ipynb)
 - [Slide of Gradient Descent](https://github.com/bahyhelmihp/sesi-berbagi/blob/master/Gradient%20Descent/(Presentation)%20Gradient%20Descent.pdf)
+- [Presentation Video: Gradient Descent](https://drive.google.com/file/d/1wnqShyqlierKCxETQmJb9kN1BZ1lze6E/view?usp=sharing)
 
 ### Contact
 - **Email**: bahyhelmi97@gmail.com
